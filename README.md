@@ -22,8 +22,10 @@ Fake News Corpus: https://github.com/several27/FakeNewsCorpus
 Getting Real About Fake News: https://www.kaggle.com/mrisdal/fake-news
 Fake News Detection: https://www.kaggle.com/jruvika/fake-news-detection
 News Dataset from TI-CNN: https://arxiv.org/abs/1806.00749
+
+
 Folder structure
-data: This directory must be created with the necessary data for scripts to work. (Not uploaded to GH due to filesize restrictions).
+data: This directory must be created with the necessary data for scripts to work. (Not uploaded to GitHub due to filesize restrictions).
 GoogleNews-vectors-negative300.bin.gz: Word2Vec news trained model weights
 Other_datasets
 GettingRealAboutFake/
